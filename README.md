@@ -8,7 +8,15 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 
 *"Perhaps im not an specialist on those technologies, I have a moderate knowledge about them."*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+</p>
           
 
 ## Learning now:
@@ -17,16 +25,16 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 
 *"Focused on back-end technologies."*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='width: 48px; height: 48px; padding-left: 8px;'/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+</p>
 
 ---
 
 ## Statistics:
 
-<img
-    height="200"
-    style="padding-left: 10px"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Felwalter70&theme=darcula&show_icons=true&include_all_commits=true"><img
-    height="200"
-    style="padding-left: 10px"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felwalter70&layout=compact&theme=darcula">
+<p align="left">
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Felwalter70&theme=darcula&show_icons=true&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felwalter70&layout=compact&theme=darcula" />
+</p>
