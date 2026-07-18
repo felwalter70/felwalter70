@@ -16,7 +16,6 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
             margin: 0px 5px;
         }
     </style>
-</html>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" class='techLogo'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" class='techLogo'/>
@@ -25,6 +24,7 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" class='techLogo'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" class='techLogo'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" class='techLogo'/>
+</html>
           
 
 ## Learning now:
