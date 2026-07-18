@@ -23,5 +23,12 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 
 ## Statistics:
 
-![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Felwalter70&theme=darcula&show_icons=true&include_all_commits=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felwalter70&layout=compact&theme=darcula)
+<img
+    height="200"
+    style="padding-left: 10px"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Felwalter70&theme=darcula&show_icons=true&include_all_commits=true">
+
+<img
+    height="200"
+    style="padding-left: 10px"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felwalter70&layout=compact&theme=darcula">
