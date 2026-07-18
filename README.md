@@ -8,23 +8,13 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 
 *"Perhaps im not an specialist on those technologies, I have a moderate knowledge about them."*
 
-<html>
-    <style>
-        img.techLogo {
-            width: 48px;
-            height: 48px;
-            margin: 0px 5px;
-        }
-    </style>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" class='techLogo'/>
-</html>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
           
 
 ## Learning now:
@@ -33,8 +23,8 @@ I'm an informatics technical course student at CEFET-MG (Federal Technological E
 
 *"Focused on back-end technologies."*
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" class='techLogo'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" class='techLogo'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='width: 48px; height: 48px;margin: 0px 5px;'/>
 
 ---
 
